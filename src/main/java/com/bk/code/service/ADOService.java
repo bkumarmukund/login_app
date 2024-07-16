@@ -8,6 +8,7 @@ public interface ADOService {
 	public void deleteRegistation(String email);
 	public void updateRegistation(String email,String phone);
 	public void getAllRegistations();
+	//
 
 	
 }
