@@ -5,6 +5,9 @@ package com.bk.code.servlet;
  */
 public class LoginServlet {
     
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
     
     
     /* 
